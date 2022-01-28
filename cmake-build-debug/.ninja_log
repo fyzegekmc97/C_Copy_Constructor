@@ -1,0 +1,8 @@
+# ninja log v5
+223	326	1643374215729398726	C_Copy_Constructor	f7991d15b08c7309
+0	223	1643374215629398195	CMakeFiles/C_Copy_Constructor.dir/main.c.o	db2e4b5cf346fd26
+1	384	1643377332639105918	CMakeFiles/C_Copy_Constructor.dir/main.c.o	8ff6bc17be6a770c
+385	611	1643377332863121947	C_Copy_Constructor	f7991d15b08c7309
+1	157	1643377478621238535	CMakeFiles/C_Copy_Constructor.dir/main.c.o	8ff6bc17be6a770c
+1	197	1643377488913405715	CMakeFiles/C_Copy_Constructor.dir/main.c.o	8ff6bc17be6a770c
+198	232	1643377488997406974	C_Copy_Constructor	f7991d15b08c7309
